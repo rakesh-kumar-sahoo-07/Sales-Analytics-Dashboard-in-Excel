@@ -51,7 +51,7 @@ This project was developed using **Microsoft Excel 2010**, ensuring compatibilit
 
 ### Dashboard View
 
-![Dashboard Preview](./Product-Dashboard.png)
+![Dashboard Preview](https://github.com/rakesh-kumar-sahoo-07/Sales-Analytics-Dashboard-in-Excel/blob/main/About%20Page.png)
 
 ### About Page
 
