@@ -49,13 +49,21 @@ This project was developed using **Microsoft Excel 2010**, ensuring compatibilit
 
 ## 🖼️ Preview
 
-### Dashboard View
+### Sales Dashboard View
 
-![Dashboard Preview](https://github.com/rakesh-kumar-sahoo-07/Sales-Analytics-Dashboard-in-Excel/blob/main/About%20Page.png)
+![Sales Dashboard Preview]()
+
+### Product Dashboard View
+
+![Product Dashboard Preview]()
+
+### Salesman Dashboard View
+
+![Salesman Dashboard Preview]()
 
 ### About Page
 
-![About Page Preview](./path-to-about-page-image.png)
+![About Page Preview]()
 
 ---
 
