@@ -1,9 +1,5 @@
-# Sales-Analytics-Dashboard-in-Excel
-The Sales Analytics Dashboard is an interactive Excel tool built in Microsoft Excel for analyzing sales data across products, regions, and time. It deliver clear insights into total revenue, sales volume, product performance, and regional trends. Users can filter by date, product, and region to explore key metrics through clean, visual reports.
-
 # 📊 Sales Analytics Dashboard in Excel
-
-This project is an interactive **Sales Analytics Dashboard** created in **Microsoft Excel 2010**. It enables users to track product-wise and region-wise sales performance over a defined timeline with visual clarity and ease of use.
+The Sales Analytics Dashboard is an interactive Excel tool built in Microsoft Excel for analyzing sales data across products, regions, and time. It deliver clear insights into total revenue, sales volume, product performance, and regional trends. Users can filter by date, product, and region to explore key metrics through clean, visual reports.
 
 ---
 
@@ -55,7 +51,7 @@ This project was developed using **Microsoft Excel 2010**, ensuring compatibilit
 
 ### Dashboard View
 
-![Dashboard Preview](./path-to-dashboard-image.png)
+![Dashboard Preview](./Product-Dashboard.png)
 
 ### About Page
 
