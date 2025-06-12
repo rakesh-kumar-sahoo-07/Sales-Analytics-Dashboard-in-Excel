@@ -69,7 +69,7 @@ This project was developed using **Microsoft Excel 2010**, ensuring compatibilit
 
 ## 🚀 Getting Started
 
-1. Clone or download the `.xlsx` file.
+1. Clone or download the `![.xlsx`](https://github.com/rakesh-kumar-sahoo-07/Sales-Analytics-Dashboard-in-Excel/blob/main/Advanced-Sales%20Dashboard.xlsx) file.
 2. Open it in Excel (2010 or newer recommended).
 3. Use slicers to filter by Date, Product, and Region.
 4. View auto-updated KPIs and charts.
